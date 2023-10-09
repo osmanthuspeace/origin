@@ -6,4 +6,3 @@ def main():
 		cat()
 if __name__== "__main__":
 	main()
-#i seemly know what is it
