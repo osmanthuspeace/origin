@@ -3,3 +3,5 @@ hello
 i`m a new of github
 
 this line means i modified this txt
+
+i studied in mit for about one hour
